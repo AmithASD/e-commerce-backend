@@ -23,6 +23,8 @@ lib-cov
 coverage
 *.lcov
 
+pakage-lock.json
+
 # nyc test coverage
 .nyc_output
 
